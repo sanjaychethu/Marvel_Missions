@@ -159,7 +159,7 @@ $(function() {
 
 	$('.weather-temperature').openWeather({
 		lang: 'ru',
-		city: 'Los Angeles',
+		city: 'Bengaluru',
 		placeTarget: '.weather-place',
 		units: 'f',
 		windSpeedUnit: 'Mps',
